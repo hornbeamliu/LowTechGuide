@@ -27,4 +27,4 @@ command+f全文搜索e.hasActivated 找到 hasActivated="true"==e.hasActivated
 
 
 
-**enjoy your typora！**
+**Done！**
